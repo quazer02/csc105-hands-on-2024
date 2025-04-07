@@ -1,0 +1,24 @@
+.box{
+  padding: 20px;
+  box-shadow: 0 0 10px grey;
+  height: 50vh;
+  width: 50vh;
+  margin: auto;
+  margin-top: 175px;
+}
+#Blue {
+  background-color: dodgerblue;
+  color: white;
+  border: none;
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+}
+#Red{
+  background-color: firebrick;
+  color: white;
+  border: none;
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+}
